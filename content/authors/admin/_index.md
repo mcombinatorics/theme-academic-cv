@@ -53,7 +53,7 @@ education:
   - area: PhD in Technology and Operations
     institution: University of Michigan, Ann Arbor
     date_start: 2024
-    date_end: Present
+    date_end: ""
   - area: PhD in Transportation Systems Engineering
     institution: University of Michigan, Ann Arbor
     date_start: 2021
