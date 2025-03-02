@@ -150,4 +150,4 @@ awards:
 
 ## About Me
 
-Mojtaba's research focuses on automating experiments, strategic testing, and inspections in strategic business environments. His work aims to enhance decision-making processes and optimize operational efficiency through data-driven automation.
+My research focuses on automating experiments, strategic testing, and inspections in strategic business environments. His work aims to enhance decision-making processes and optimize operational efficiency through data-driven automation.
