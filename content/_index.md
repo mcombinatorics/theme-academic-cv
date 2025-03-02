@@ -14,7 +14,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
     design:
-      css_style: "width: 200px; height: 400px;"
+      css_style: "width: 200px; height: 200px;"
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
